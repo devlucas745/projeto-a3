@@ -1,12 +1,7 @@
-Claro! Aqui vai **OUTRO modelo de README**, mais simples, limpo e direto — ideal para projeto acadêmico, sem muitos enfeites:
-
----
-
-# **Projeto A3 — Estrutura de Dados (Python)**
 
 Este repositório contém a solução desenvolvida para a atividade **A3 da disciplina de Estrutura de Dados**, utilizando Python para implementar lógica, classes e operações sobre dados.
 
----
+
 
 ## 📘 **Descrição do Projeto**
 
